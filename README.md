@@ -1,5 +1,10 @@
 # The Language-Integrated Quantum Operations (LIQ𝑈𝑖|⟩) simulator
 
+
+
+Found this following this article : LIQUi|>: Language-Integrated Quantum Operations - Microsoft Research http://research.microsoft.com/en-us/projects/liquid/
+
+
 ## What Is LIQ𝑈𝑖|⟩?
 
 LIQ𝑈𝑖|⟩ is a simulation platform developed by the [Quantum Architectures and Computation](http://research.microsoft.com/en-us/groups/quarc/) team at Microsoft Research to aid in the exploration of quantum computation. 

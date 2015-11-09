@@ -1,3 +1,8 @@
+
+Found this following this article :  LIQUi|>: Language-Integrated Quantum Operations - Microsoft Research
+http://research.microsoft.com/en-us/projects/liquid/
+
+
 # Getting Started
 
 ## Prerequisites
